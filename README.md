@@ -16,8 +16,8 @@ de còpia entre directoris per mesurar el rendiment del disc.
 
 ```bash
 # Clona el repositori
-git clone https://github.com/DjibrilBiel/NetoCornetto.git
-cd NetoCornetto
+git clone https://github.com/DjibrilBiel/Disk-IO-Benchmark.git
+cd Disk-IO-Benchmark
 
 # Instal·la dependències
 pip install -r requirements.txt
