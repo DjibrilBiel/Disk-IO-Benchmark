@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Eines incloses
 
-### 1️⃣ Generador d’arxius (`file_generator.py`)
+### Generador d’arxius (`file_generator.py`)
 
 Crea arxius `.dat` amb mides aleatòries entre 32 MB i 256 MB.
 
@@ -42,7 +42,7 @@ python generate_files.py -n 50 -d ./carpeta_origen
 
 ---
 
-### 2️⃣ Benchmark de còpia (`benchmark_mover.py`)
+### Benchmark de còpia (`benchmark_mover.py`)
 
 Copia els arxius generats i mesura el temps emprat, desant els resultats
 en un fitxer CSV.
